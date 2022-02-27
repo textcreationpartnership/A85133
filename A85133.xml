@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A character whereby the false christs, or antichrists, seducers, false prophets, and house creepers may be known. Now in the latter dayes, wherein there are perilous tims [sic], as it is written &amp; hath been foretold of in 2 Tim. 3.3. And saith Jesus, false prophets shall come, but by their fruits shall ye know them, Mat. 7. 15, 16. and 20. And now they are come, and by their fruits they are known, as it is written. As may be seen in two letters sent to severall priests in Liestershire, after two severall meetings, betwixt them and those called Quakers, one letter was to be sent to one Tho. Cockeram of swannington [sic], servant to the Lord Protector, at whose house one meeting was, as the letter will further make mention, and shew the difference betwixt the true prophets and the false, which letter was directed to him to to [sic] be read to the priests being present at the meeting, and the other was to the priest of Twycrosse, after the meeting appointed betwixt two priests, and those whom the world scornfully calleth Quakers: wherein is discovered the true prophet and the false, and who those are that creep into houses, leading silly people men and women captive, laden with sin, and led away with diverse lusts, ever learning, and never able to come to the knowledge of the truth; and who those false prophets and house-creepers are, that are spoken of, as is proved, both by their fruits, and also by Scripture, as may be seen, &amp;c. / By one known to the world, by R[ichard Fu]rnvvorth.</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85133</idno>
+            <idno type="STC">Wing F475</idno>
+            <idno type="STC">Thomason E817_8</idno>
+            <idno type="STC">ESTC R207412</idno>
+            <idno type="EEBO-CITATION">99866463</idno>
+            <idno type="PROQUEST">99866463</idno>
+            <idno type="VID">118738</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118738)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E817[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A character whereby the false christs, or antichrists, seducers, false prophets, and house creepers may be known. Now in the latter dayes, wherein there are perilous tims [sic], as it is written &amp; hath been foretold of in 2 Tim. 3.3. And saith Jesus, false prophets shall come, but by their fruits shall ye know them, Mat. 7. 15, 16. and 20. And now they are come, and by their fruits they are known, as it is written. As may be seen in two letters sent to severall priests in Liestershire, after two severall meetings, betwixt them and those called Quakers, one letter was to be sent to one Tho. Cockeram of swannington [sic], servant to the Lord Protector, at whose house one meeting was, as the letter will further make mention, and shew the difference betwixt the true prophets and the false, which letter was directed to him to to [sic] be read to the priests being present at the meeting, and the other was to the priest of Twycrosse, after the meeting appointed betwixt two priests, and those whom the world scornfully calleth Quakers: wherein is discovered the true prophet and the false, and who those are that creep into houses, leading silly people men and women captive, laden with sin, and led away with diverse lusts, ever learning, and never able to come to the knowledge of the truth; and who those false prophets and house-creepers are, that are spoken of, as is proved, both by their fruits, and also by Scripture, as may be seen, &amp;c. / By one known to the world, by R[ichard Fu]rnvvorth.</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Giles Calvert at the sign of the Black spread-Eagle at the west-end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 17".</note>
+                  <note>Imperfect: ms. on t.p. obscures a portion of author's name.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118738:1" rendition="simple:additions"/>
+            <p>A CHARACTER Whereby the falſe Chriſts, or Antichriſts, Seducers, falſe Prophets, and houſe-creepers may be known.</p>
+            <p>Now in the latter dayes, wherein there are pe<g ref="char:EOLhyphen"/>rilous tims, as it is written &amp; hath been foretold of in 2 <hi>Tim.</hi> 3, 3. <hi>And</hi> ſaith Jeſus. <hi>Falſe Proph<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts ſhall come, but by their fruits ſhall ye know th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, Mat.</hi> 7.15, 16. and 20. And now they are come, and by their fruits they are known, as it is written.</p>
+            <p>As may be ſeen in two Letters ſent to ſeve<g ref="char:EOLhyphen"/>rall Prieſts in <hi>Lieſterſhire,</hi> after two ſeverall Mee<g ref="char:EOLhyphen"/>tings, betwixt them and thoſe called QVAKERS, One Letter was to be ſent to one <hi>Tho. Cockeram</hi> of <hi>ſwannington,</hi> ſervant to the Lord Protector, at whoſe houſe one Meeting was, as the Letter will further make mention, and ſhew the difference betwixt the true Pro<g ref="char:EOLhyphen"/>phets and the falſe, which Letter was directed to him to to be read to the Prieſts being preſent at the Meeting, and the other was to the Prieſt of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wycroſſe,</hi> after the meeting appointed be<g ref="char:EOLhyphen"/>twixt two Prieſts, and thoſe whom the world ſcornfully calleth Quakers:</p>
+            <p>Wherein is diſcovered the true Prophet and the falſe, and who thoſe are that creep into houſes, leading ſilly people men and women captive, laden with ſin, and led away with diverſe luſts, ever learning, and never able to come to the knowledge of the Truth; and who thoſe falſe Prophets and houſe-creepers are, that are ſpoken of, as is proved, both by their fruits, and alſo by Scripture, as may be ſeen, &amp;c.</p>
+            <p>
+               <hi>By one known to the world, by</hi> R<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>RNVVORTH.</p>
+            <p>
+               <hi>London,</hi> Printed, and are to be ſold by <hi>Giles Calvert</hi> at the ſign of the Black ſpread-Eagle at the Weſt-end of <hi>Pauls.</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118738:2"/>
+            <pb n="1" facs="tcp:118738:2"/>
+            <head>
+               <hi>A BRIEF DESCRIPTION</hi> Of the true Prophets and the falſe, and how falſe Prophets and houſe-creepers may be known, by a Let<g ref="char:EOLhyphen"/>ter to Prieſt <hi>Hill,</hi> &amp;c.</head>
+            <opener>
+               <salute>
+                  <hi>Prieſt</hi> Hill,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hou who profeſſes thy ſelf to be a Miniſter of Chriſt, thou art found to be an An<g ref="char:EOLhyphen"/>tichriſt, and a falſe Prophet, and art a a raging wave of the Sea, foaming out thy own ſhame, as thoſe ſpoken of in <hi>Jude</hi> 13. And thy fruits alſo maketh thee ma<g ref="char:EOLhyphen"/>nifeſt, and thy folly and ignorance were abundantly diſcovered, and made mani<g ref="char:EOLhyphen"/>feſt at the Meeting at <hi>Twycroſſe,</hi> on the ſe<g ref="char:EOLhyphen"/>cond day of the week, and the 9. day of the 8. month, and could give no account at all of any thing of the working of God by Inward Experience; for, when I propounded a Queſtion to thee; and asked thee concerning paſ<g ref="char:EOLhyphen"/>ſing from death unto life, thou could tell nothing of it at all, and becauſe it is ſaid, that death reigned from <hi>Adam</hi> untill <hi>Moſes,</hi> over all thoſe that ſinned not after the ſimilitude of <hi>Adams</hi> tranſgreſſion, and the Law and the Prophets are till <hi>Iohn,</hi> and <hi>Iohn</hi> he came and doth come burning and ſhining; amongſt thoſe that were born of women was not a greater than <hi>Iohn,</hi> yet he that is leaſt in the kingdom of God is greater than he, as it is written; I then asked thee how thou couldſt give account of thoſe Mi<g ref="char:EOLhyphen"/>niſtrations in the inward man, and thy paſſage in the inward Miniſtrati<g ref="char:EOLhyphen"/>on through death, and withall I asked thee, what death had reigned over in thee, and thou could not tell; I alſo asked thee how it was with thee In deaths reign, and how thou came thorough the Miniſtration of con<g ref="char:EOLhyphen"/>demnation, and to know the Law and the Prophets fulfilled in thee, and to what, and how thou came to <hi>Iohns</hi> Miniſtration, to know the fallow ground ript up in thee, and the Ax laid to the root of the tree, what the
+<pb n="2" facs="tcp:118738:3"/>
+Tree and the Ax, and the fallow Ground was, and how the burnings and the ſhinings came, and how that Miniſtration ceaſed, and what ſucceed<g ref="char:EOLhyphen"/>ed and exceeded, but thou could give no account of them, and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the devill in thee raged, thou being in union with him, fret and fumed, and were like one of the Buls of <hi>Baſhan</hi> that is ſpoken o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scripture, and I told thee, thou ought to give me account with meekneſſe and fear, becauſe it was required of thee ſo to do, for the Miniſter of Chriſt ſaith, Sanctifie the Lord God in your hearts, and be ready alway s to give an Anſwer to every one that asketh with meekneſſe and fear, 1 <hi>Pet</hi> 3 15.</p>
+            <p>But hou ſhewed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat thou knew not the fear of the Lord: that were ſo fil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d with rage, fury, m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neſſe, miſchief, and wickedneſſe, lying, and falſe accuſing of the juſt, and could prove none of thoſe things wherein thou ſo falſely accuſed the innocent.</p>
+            <p>Oh, ſhame upon thee Prieſt <hi>Hill,</hi> that art ſuch a man of <hi>Beliall;</hi> the Light of God in thy conſcience will prick thee at thy heart for it, and thy contrary acting to the Light, and that light which ſheweth thee ſin and evill, and checks and reproves thee in ſecret, that Light will be thy eter<g ref="char:EOLhyphen"/>nall condemnation, who hateth it, and acteth contrary to it, and the Light of God in thy conſcience will witneſſe for me, and the Truth a<g ref="char:EOLhyphen"/>gainſt thee and thy deceit, in thy condemnation thou wilt know what I ſay: Oh, ſhame, let ſhame cover thy lips, who hateth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Light, and acteth ſo contrary to it, and all that fe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s God, that knoweth thee, may cry ſhame of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hee for ever; thou enemy of all righteouſneſſe, and child of the devill, who preaches up ſin, and a continuance in it, to uphold the devils kingdome, and ſo perverts the right wayes of the Lord, as thou doſt, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scripture which thou brought in the Acts ſhall ſtand for thy elf; for when I charged thee to prove me to be that which thou accuſed ſme of, thou could not: But I ſhall prove thee to be a lyar, and a falſe Prophet, as I ſaid, and ſo make it good, and prove it both by thy fruits, and alſo by Scripture to confirm the ſame, as I ſaid.</p>
+            <p>Firſt, when I asked thee if thou did not preach for hire, thou denied it openly, and before the people, and ſaid, thou did not Preach for hire</p>
+            <p>Then ſecondly, I asked if ther were none preſent there that could witneſs againſt thee, in that thing, to prove thee 2 lyar, whereupon, in that place witneſſe came againſt thee, and proved thee a lyar before thy face, and lying is of the devill, <hi>Iohn</hi> 8.44. And all ly<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs are for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lake; Read thy Reward thou lyar, and child of the Devill, <hi>Rev.</hi> 22.15. <hi>Rev.</hi> 21.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and 27.</p>
+            <p>Then when thou was proved an open lyar in that thing, thou proceed<g ref="char:EOLhyphen"/>ed further to manifeſt thy lyes, and ſaid thou did not preach for hire, thou preached for ſouls; and when it was asked thee and Prieſt <hi>Whetſtone,</hi> both of you, what the Soul was, thou anſwered poſitively, and ſaid, No man living could tell what the ſoul was; whereupon I there proved thee a lyar in that thing, and withall I asked thee, and you both, what you did miniſter unto, and watch over, that knew not the ſoul, therein thou and he both, did diſcover your ſelves to be no Miniſters of Chriſt, nor
+<pb n="3" facs="tcp:118738:3"/>
+the Goſpel; for the Miniſters of Chriſt in the New Covenant did, an doth watch for the Souls, as they that muſt give an account unto God <hi>Hebrews</hi> 13.17.</p>
+            <p>Here <hi>Hill,</hi> I charge thee, and <hi>Whetſtone</hi> alſo, in the Preſence of the living God, to be ignorant of God, and of Chriſt, and to be no Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel, nor the new Covenant, but are falſe Prophets of <hi>Rome,</hi> and never was ſent by the Lord, that knoweth not what the Soul is, as thou then ſaid, and therein thou lyed again, and treebled thy lies, that ſaid thou preached not for hire, but for Souls, and upon the examination ſaid po<g ref="char:EOLhyphen"/>ſitively, that thou, nor no man living know what the Soul was: true thou knoweſt not, nor none living in thy nature, and deceivableneſſe of unrighteouſneſſe.</p>
+            <p>Wo to thee, thou lyer, thou art of thy Father the devill, and a de<g ref="char:EOLhyphen"/>ceiver of ſouls, <hi>Iohn</hi> 8.44. And herein thou haſt manifeſt thy ſelf, and all in thy nature, to be acted and guided by a lying ſpirit: But remem<g ref="char:EOLhyphen"/>ber thou lyar, that the lake is prepared for the lyars and wicked, ſuch as thou art, and the light of God in thy Conſcience, which thou art an ene<g ref="char:EOLhyphen"/>my unto, will witneſſe the ſame for me, and the Truth, agai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt thee and thy deceivings; and thou mayeſt read thy reward, and all ſuch as thou art, in <hi>Pſal.</hi> 9.17. <hi>Mat.</hi> 7.15, 16, 20, <hi>and</hi> 23. <hi>Mat.</hi> 25.41. <hi>to the end. Rev.</hi> 21.8.</p>
+            <p>Thou art as one of thoſe that <hi>Iſaiah</hi> the true Prophet of the Lord was ſent to cry out againſt, that art blinde and ignorant of the knowledge of God in the inward miniſtration, that could not open thy mouth to ſpeak any thing of the myſtery, <hi>Col.</hi> 1.27. but art a blinde watchman, and a greedy dumb dog, and one that preaches for hire, and ſeeks for thy gain from thy quarter, and place where thou art ſeated, as the falſe Prophets did, and as the idoll ſhepherds and blinde watchmen did, ſo doſt thou, thou blinde watchman, idoll ſhepherd, and falſe Prophet, as thy fruits maketh thee manifeſt, that preaches for hire, and tythes, and lyed, and ſaid thou did not, Oh, ſhame, ſhame, let ſhame ſtrike thee in thy face, and cover thy lips, the light of God in thy conſcience will be an eternall witneſſe againſt thee forever thou lyer, and falſe Prophet, by thy fruits thou art known and th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is the way to know falſe Prophets as Chriſt hath ſaid: <hi>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 7<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.5.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 20. And thou mayeſt read amongſt the true Pro<g ref="char:EOLhyphen"/>phets writing<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſee thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be amongſt the falſe Prophets, by thy actions, as thy fruits maketh thee manifeſt, and let the true Prophets words judge thee, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hou falſe Prophet, who art an open lyar, and Preaches for hire, and ſeeks for the gain from thy Quarter, Place, and Pariſh where thou art, as the falſe Prophets did, ſo doſt thou <hi>Hill, Read Iſa</hi> 56 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0, 11.</p>
+            <p>
+               <hi>Iſaiah,</hi> who was the true Prophet of the Lord, did not preach for hire, neither did he ſeek for his gain from any quarter, but cried out againſt them that did is thou doſt, for thou ſaid openly, thou was not as <hi>Iſaiah</hi> was; no more thou art: For <hi>Iſaiah</hi> was annointed by the Spirit to Preach; but thou art not, and <hi>Iſaiah</hi> ſaid, the L rd God and his Spirit ſent him to preach; but thou ran as the falſe Prophets did, and thou that art not as
+<pb n="4" facs="tcp:118738:4"/>
+               <hi>Iſaiah was,</hi> thou art a falſe Prophet indeed, out of thy own mouth ar thou judged, and if <hi>Iſaiah</hi> was here now, he would cry out againſt thee, as he did againſt thoſe in thy nature then, that did as thou doſt, and as all you hireling Prieſts; and falſe Prophets do, with the ſame Light and Spirit that was in <hi>Iſaiah,</hi> art thou, and all you hireling Prieſts, ſeen now, and cryed out againſt now; <hi>We to you blinde guides, and falſe pro<g ref="char:EOLhyphen"/>phets, and hireling Prieſts, that run but never was ſent of the Lord, there<g ref="char:EOLhyphen"/>fore do you not profit the people at all, Jer.</hi> 23.</p>
+            <p>And wo to thee <hi>Hill,</hi> thou blinde guide, and falſe prophet, that preaches for hire, and ſeeks for thy gain from thy quarter, Place, &amp; Pariſh where thou art, as the falſe Prophets did, and lies, and ſaith, thou doth not preach for hire: Oh, ſhame upon thee <hi>Hill,</hi> for ever, that liveth and acteth in ſuch groſſe wickedneſſe as thou doſt, but God will avenge himſelf on thee, and all ſuch as thou art, <hi>Iſaiah</hi> who was the true Prophet of the Lord, he cryed out againſt ſuch as thou art, and he ſpoke the word of the Lord freely, and ſaid, <hi>Come freely, without money, or price,</hi> and ſo do all the true Prophets of the Lord now that are in the light, as <hi>Iſaiah</hi> was: and they are annointed to preach, and the Lord God and his Spirit ſends them to preach freely as <hi>Iſaiah</hi> did, and to cry out againſt all ſuch as thou art <hi>Hill;</hi> Read <hi>Iſa.</hi> 48.16, 17. and <hi>Iſa.</hi> 61. <hi>Iſa.</hi> 55. and tell, the true Pro<g ref="char:EOLhyphen"/>phets words judge thee and <hi>Prieſt Whetſtone,</hi> and all ſuch as you are, that ſay, you are not as <hi>Iſaiah</hi> was, be witneſſe againſt your ſelves, that you are the falſe Prophets, and all ſuch as you are, who are not as <hi>Iſaiah</hi> was, for he was the true Prophet, and cryed out againſt the falſe, and deſcry<g ref="char:EOLhyphen"/>bed them by their fruits, <hi>Iſa.</hi> 56.10, 11.</p>
+            <p>And likewiſe <hi>Jeremiah,</hi> who was the true Prophet of the Lord, ſpoke freely, and ſaid, <hi>All the children of the Lord ſhould be taught of the Lord,</hi> in the New Covenant as <hi>Iſaiah</hi> did; and <hi>Iſaiah</hi> 54.13, 14. and <hi>Iſaiah</hi> 55. Chapters, <hi>Jeremiah</hi> 31.31. to the 35. and <hi>Jeremiah</hi> the true Prophet of the Lord cryed out then againſt ſuch as thou art, and ſaid, <hi>A filthy and a horrible thing was committed in the Land, for the prophets did propheſie falſe<g ref="char:EOLhyphen"/>ly, and the Prieſts took gifts in their hands, and bore Rule by their meanes,</hi> as thou <hi>Hill,</hi> and Prieſt <hi>Whetſtone,</hi> and all the Prieſts of the world re<g ref="char:EOLhyphen"/>ceive gifts in your hands, and beares rule by your means, and preaches for hire, and thou <hi>Hill</hi> lyed, and ſaid, thou did not, till witneſſe came againſt thee openly before thy face; Oh ſad, what a falſe Prophet, and hireling Prieſt, and lyar art thou? Here I charge thee, in the preſence of the Lord, and all ſuch as thou art, where ever they are, to be no Goſpel Miniſters, but lyars, deceivers, falſe prophets, ſeducers, and Anti<g ref="char:EOLhyphen"/>chriſts, as your fruits maketh them and thee manifeſt, and the light of God in thy conſcience, which ſheweth thee ſin and evill, and checks and reproveth thee in ſecret, will witneſſe againſt thee, and thy deceivable<g ref="char:EOLhyphen"/>neſſe, and the Word of the Lord will riſe up in judgement againſt thee, thou lyer and deceiver of the people, and all ſuch as thou art, and the Scripture witneſſeth againſt you, Read <hi>Jer.</hi> 5.30, 31. and let the true Prophets words there judge thee, thou falſe prophet, and hireling Prieſt, and all ſuch as thou art, that bears rule by their means, and holds up that
+<pb n="5" facs="tcp:118738:4"/>
+filthy and horrible thing, which <hi>Jeremiah</hi> the true Prophet of the Lord ſaw then committed, by ſuch as you are, and he were ſent to declare a<g ref="char:EOLhyphen"/>gainſt them, as I declare againſt thee Prieſt <hi>Hill,</hi> and all that acteth ſuch things, for by your fruits you are known to be the falſe Prophets that Chriſt ſaid ſhould come, and now you are come, and declared and teſti<g ref="char:EOLhyphen"/>fied againſt; <hi>Epheſ.</hi> 5.11. <hi>Mat.</hi> 7.15, 16 and 20.</p>
+            <p>But <hi>Jeremiah</hi> the true Prophet of the Lord, he did not preach for hire neither did he bear rule by his means; but he declared againſt ſuch as did and were ſet in the ſtocks, by one Prieſt, and ſmitten on the face, <hi>Ier.</hi> 20. and <hi>Ieremiah</hi> the true Prophet of the Lord, he pronounced woes to ſuch as thou art, as thou mayeſt read, <hi>Ier.</hi> 23.1, 2. And thou art one of thoſe falſe prophets, which ſpeaks a viſion of thy own heart, and makes the peo<g ref="char:EOLhyphen"/>ple light and vain, as thy fruits and theirs maketh you manifeſt, as him that thou called Mr. <hi>Kendall,</hi> and others that were with thee, who were ſo fooliſh, vain, and ſottiſh, which is part of thy fruits, vanity upon vanity, like Prieſt, like people; read <hi>Ier.</hi> 23.16. <hi>Hoſ.</hi> 4.9.</p>
+            <p>Thou art of thoſe falſe prophets that ran but never was ſent by the Lord, for thou, and Prieſt <hi>Whetstone</hi> both ſaid, that you was not as <hi>Iſaiah</hi> the true Prophet was, and you ſaid alſo, that a falſe Prophet ran before he was ſent, therefore be witneſſe againſt your ſelves, that you are falſe prophets, and not true, and ran before you was ſent, that are not as <hi>Iſaiah</hi> was, for <hi>Iſaiah</hi> ſaid, he was annointed to preach by the Spirit, <hi>Iſa.</hi> 61. but you are not, nor none in your nature, likewiſe <hi>Iſaiah</hi> the the true Prophet ſaid, The Lord God and his Spirit had ſent him to preach, <hi>Iſa.</hi> 48.16, 17. but ſo hath not the Lord God and his Spirit ſent you to preach, who ſaid, you was not like <hi>Iſaiah</hi> the true Prophet, that were ſent; but you are the falſe Prophets, and all ſuch as you are, that hath run unſent, as the falſe pro<g ref="char:EOLhyphen"/>phets did, <hi>Ier.</hi> 23.21.</p>
+            <p>And thou <hi>Hill,</hi> and <hi>Whetſtone</hi> thy partner, and all ſuch as you are, ſteals the words of the true Prophets to trade withall, and ſels them for money, as the falſe prophets did, and the Lord is againſt you for it, as he was againſt them, therefore are you falſe prophets, as your fruits maketh you manifeſt, and as you may read, <hi>Ierem.</hi> 13.30, 31, 32.</p>
+            <p>And you that ſay, that Revelations is ceaſed, and ſay there is no knowledge of God, but by the Letter of the Scripture, as you did, when the Scripture ſaith, that there is no knowledge of God the Father, but by Revelation, <hi>Mat.</hi> 11.27. <hi>Gal.</hi> 1.11, 12. <hi>Gal.</hi> 1.15, 16. <hi>Eph.</hi> 3. <hi>Gal.</hi> 2. 1 <hi>Pet.</hi> 1. Herein you are found lyars, falſe prophets, ſeducers, and an<g ref="char:EOLhyphen"/>tichriſts, and bringeth a contrary Doctrine to Chriſt, and his Apoſtles, therefore are you and all ſuch to be holden accurſed, <hi>Gal.</hi> 1.8, 9.</p>
+            <p>Thou art one of thoſe that the Prophet <hi>Micah</hi> ſpeaks of, that cryes peace peace to people, whilſt they put into thy mouth; but thoſe that cannot for conſcience ſake put into thy mouth, and give thee money and tythes, which thou haſt no right to by the Law of God in the New Covenant; there<g ref="char:EOLhyphen"/>fore becauſe thou art a falſe prophet, and no Goſpel Miniſter, now thou art ready to prepare war againſt them, or threaten them to go to Law with them, which Chriſt forbids, <hi>Mat.</hi> 5.4<g ref="char:punc">▪</g> And thou mayeſt read thy
+<pb n="6" facs="tcp:118738:5"/>
+condition, and all ſuch as thou art, <hi>Micah</hi> 3.5: and the 11. And many falſe Prophets are gone out into the world like unto thee, who through covetouſneſſe make merchandize of the people for their own ends, as thou doſt, and as the falſe Prophets did; read 2 <hi>Pet</hi> 2 Thou and all hireling Prieſts and falſe Prophets ſuch as thou art, goes on in the wayes of <hi>Cain,</hi> in envy, as he did, and are erred from the Spirit, as <hi>Balaam</hi> was, and wo is your portion; read <hi>Jude</hi> 11. Thou art one of thoſe that takes the wool, and feeds thee with the fat, as the idoll ſhepherds and falſe pro<g ref="char:EOLhyphen"/>phets did, that <hi>Ezekiel</hi> was ſent to cry wo againſt, and wo is to thee, and all ſuch as thou art; as it was to them: Read <hi>Ezekiel</hi> 34. and let the true Prophets words judge thee, thou falſe prophet, and all ſuch as thou art: And I charge thee, and all hireling Prieſts ſuch as thou art, to ſhew me one place of Scripture in all the Prophets writings, if you can, when any one true Prophet of the Lords preached for hire, and threatened to ſue men at the Law for their goods, and ſaid, they had as good right to them as a man hath to his outward inheritance; as thou and <hi>Whetſtone</hi> ſaid you had, for ſpeaking your lyes to the people, who are Miniſters made by the wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of man, and not by God, and ſo are falſe prophe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; Stop your mou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hs forever, plagues, and vengeance from the Lord expect, for your reward, <hi>Iſa.</hi> 3.11. <hi>Iſa.</hi> 30.1. <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</hi> 2.5.6.</p>
+            <p>And thou art an evill beaſt, and a ſlow belly, and a lyer like unto the <hi>Cretians,</hi> whoſe mouth is to be ſtopped, and all ſuch as thou art; read thy ſelf, who art in that nature, a lyer, an evill beaſt, and a ſlow belly; the light of God in thy conſcience, which thou acteth contrary to, will rip thee up, and let thee ſee thy wickedneſſe, and be thy condemnation who loveth the deeds of darkneſſe, as thy fruits maketh thee manifeſt ra<g ref="char:EOLhyphen"/>ther than the light, as thy fruits maketh thee manifeſt, and as thou mayeſt read, <hi>John</hi> 3 19, 20. read <hi>Tit.</hi> 1.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and the 16. <hi>Philip.</hi> 3.18, 19.</p>
+            <p>Thou holds up the idols Temple, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath the chiefeſt place in the Aſ<g ref="char:EOLhyphen"/>ſembly of envious and wicked ones, as the Scribes and Phariſees had, and thou art called of men Mr. as they was, and wo is thy portion, as it was theirs; read <hi>Mat.</hi> 23. and let Chriſts words there judge thee, thou hy<g ref="char:EOLhyphen"/>pocrite, thou raging wave of the ſea, that foameth out thy own ſhame, read <hi>Iude</hi> 13. and thou may ſee all ſuch as thou art are reſerved for black<g ref="char:EOLhyphen"/>neſſe and darkneſſe; Wo to thee, thou blinde guide, but if the blind lead the blinde, ſhall not both fall into the ditch? <hi>Mat.</hi> 15.14. Thou art oxe of thoſe that creeps into houſes, having two Steeple-houſes to ſell thy Brain-ſtudy, and carnall inventions there, and deceiveth people, and keepeth them ever learning, and never able to come to the knowledge of the truth, and preaches ſin in ſtead of grace; and pleads for a continuance in ſin, and ſo for the devils kingdome, for <hi>he that commits ſin is of the de<g ref="char:EOLhyphen"/>vill,</hi> 1 <hi>Iohn</hi> 3.8, <hi>but he that is born of God ſinneth not, neither can he ſin,</hi> 1 <hi>Iohn</hi> 3 9 1 <hi>Iohn</hi> 5.18. <hi>Iohn</hi> 4.16, 17. which birth thou knowes no<g ref="char:EOLhyphen"/>thing of, nor none of thy raging fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck, that tore the other Letter that I ſent unto thee in your Beaſt houſe, before any of it was read, not willing that your d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>its ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld come to light, who yet worſhip the Beaſt and his image; but ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ward, <hi>Revelations</hi> 14.9, 10, and 11. <hi>Revelations</hi> 20.
+<pb n="7" facs="tcp:118738:5"/>
+15. <hi>Revelation</hi> 22.15. <hi>Revelation</hi> 21.27. <hi>Rev.</hi> 13. and <hi>Rev.</hi> 21.8.</p>
+            <p>To the Light of God in thy conſcience I ſpeak, that with it thy minde may be turned within, to ſee into thy wicked, evill and rebellious heart, and ſo to wait for thy condemnation, that the Light may judge thee, and condemn thee, who hateth it, and acteth contrary to it; condemnation thou cannot eſcape, and the Light of God in thy conſcience ſhall witneſſe for me in thy condemnation, as the book of conſcience is penned. 2 <hi>Theſ.</hi> 1.8, 9. 1 <hi>Theſ.</hi> 2.11, 12.</p>
+            <p>Now all people, you that ſees or hears this read, try your Prieſts by the Scriptures, and their fruits, and you ſhall finde them to be falſe pro<g ref="char:EOLhyphen"/>phets, as this <hi>Hill,</hi> and <hi>Whetſtone,</hi> and all ſuch are, and beware of them, I warn and charge you as you will anſwer it before the Lord; for falſe pro<g ref="char:EOLhyphen"/>phets ye ſhal know by by their fruits, as Chriſt hath ſaid, <hi>Mat. the</hi> 7.15, 16. &amp;c. And try your Prieſts by their fruits and the Scriptures, Are they not proud and covetous? are they not heady high-minded? are not they rai<g ref="char:EOLhyphen"/>lers and falſe accuſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and ſuch as <hi>Paul</hi> ſpeaks of in the 2 <hi>Tim.</hi> 3. from the firſt verſe to the ſixth verſe? their fruits is there deſcribed, and from ſuch you are to turn away: Of this ſort are they that creep into houſes, Steeple-houſes, and keepeth you ever learning, and never able to come to the knowledge of the truth by them, verſe the 6. and 7. Hear them not, nor hold them not up for the Lord is againſt them, and your ſouls ſhall never be benefited by them, nor none in their nature, for they ſhall not profit you at all, nor none ſuch as they are, as you may read, <hi>Jer.</hi> 23.32 Now you have time, prize it, and minde the Light of God in your con<g ref="char:EOLhyphen"/>ſciences, that which ſheweth you ſin and evill, and checks and reproveth you in your conſciences when you do amiſſe, there is your Teacher, that Light of God within you, loving it, and obeying it; there is your con<g ref="char:EOLhyphen"/>demnation, that light, hating it, and diſobeying it; ſay not but that you are warned in your life time; therefore repent, and turn from your idols and idolatrous worſhip, for you worſhip you know not what. <hi>John</hi> 4.22.</p>
+            <p>
+               <hi>God is a Spirit, and they that worſhip him now, they worſhip him in Spirit and in truth, and the Father ſeeketh ſuch to worſhip him,</hi> as it is written, <hi>John</hi> 4.23, 24.</p>
+            <closer>
+               <signed>R. F.</signed>
+               <dateline>
+                  <hi>Leiſterſhire</hi> 
+                  <date> the 8. <hi>Month.</hi> 1654.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the two Prieſts that were at the Meeting at thy houſe <hi>Thomas Cockeram,</hi> the <hi>4.</hi> day of the week, and the <hi>10.</hi> day of the <hi>8.</hi> month; Read this to them and the people, that they may learn to know the true Prophet and falſe prophet, and Miniſter of Chriſt, and Antichriſt aſunder, &amp;c.</head>
+            <p>
+               <note place="margin">
+                  <hi>Luke</hi> 10.5, 6.</note>FIrſt, when I came in thy houſe, I ſaid, <hi>Peace be in this houſe,</hi> and then the wilde wanton Prieſt that is at thy houſe, he laughed and ſcoffed at it, to ſhew forth his unbroken nature, and to
+<pb n="8" facs="tcp:118738:6"/>
+fulfill the Scripture, where it is ſaid, <hi>In the laſt dayes there ſhall come ſcoffers, which ſhall walk after their ungodly luſts,</hi> 2 <hi>Pet.</hi> 3 3 4. Here thou wanton Prieſt, I charge thee the Red headed man to be no Miniſter of Chriſt, but of Antich<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſt, and thou art without the fear of the Lord, as I told thee, and ſhewed that thou were neve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet taught of God, and al<g ref="char:EOLhyphen"/>ſo thou ſhewed forth thy ignorance of the Scriptures, and art unfit to be a teacher of others, who knowe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h not the firſt Principles, or doctrine of Chriſt; for when he ſent f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h his Diſciples into the world, he ſaid unto them, <hi>When ye come in an houſe, ſalme it, and if the houſe be worthy, let your peace come upon it, but if the houſe be not worthy, let your peace return to you again; and whoſoever ſhall not receive, nor hear your words, when you de<g ref="char:EOLhyphen"/>part out of that houſe or City, ſhake off the duſt of your feet; for it ſhall be no more tolerable for Sodom and Gomorah in the day of judgement, than for that City Mat.</hi> 10.12, 13, 14, 15. And thou, the young wilde Prieſt <hi>Houlderſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w,</hi> thou ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wed that thou wert never taught of God, nor ſent of Chriſt, for if thou had, thou could have received his doctrine, and his Meſſenger, but thou ſhewed thy ſelf like one of <hi>Pharaohs</hi> fed and wilde horſes, without government, or any humility or moderation at all, and the Miniſter of God exhorted young men to be ſober minded, and to let their moderation appear to all men; but thou <hi>Houlderſhaw</hi> had no ſobri<g ref="char:EOLhyphen"/>ety nor moderation at all, nor no ſolideneſſe, nor gravity, temperance pati<g ref="char:EOLhyphen"/>ence, nor honeſty, nor ſtayedneſſe at all; but were filled with laughter and folly, and fooliſhneſſe, like a fooliſh, wilde, wanton youth, without any government, as thy deeds made thee manifeſt, and the light of God in thy conſcience will witneſſe againſt thee, though thy conſcience be ſear<g ref="char:EOLhyphen"/>ed, and the earthly part above, where the deceit hath its paſſage, like a high way ground, where wilderneſſe and wantonneſſe, fooliſhneſſe and giddineſſe runs up and down, and treachery and deceit hath its abode, and lodgeth in the ſeat of darkneſſe, where luſt and acceſſe, pride, boaſting, lying, vain-glory, ſcorn, and diſdain is; y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the light that is within thy conſcience will awaken thee, and rip thee up one day, and be a ſwift witneſſe againſt thee, and be thy eternall condemnation that hateth it and acteth contrary to it, and contrary to the Scriptures alſo, which ſaith, <hi>Put away jeſting with fooliſh talking,</hi> &amp;c. <hi>Eph.</hi> 5.3, 4, 5.6 But thou taketh delight in that which the Scriptures forbids, and acteth contrary to the light in thy conſcience willingly, and wilfully, and rejoiceth in thy ini<g ref="char:EOLhyphen"/>quity, and in thy fooliſhneſſe, here I charge thee again in the preſence of the Lord, to be no Miniſter of Chriſt, but of Antichriſt, and thou art a ſervant of the devill, and the light of God in thy conſcience, which checks and reproves thee in ſecret for ſin and evil, will witneſſe againſt thee, and greater will thy condemnation be, thou lyer, and wanton one, thou ſcof<g ref="char:EOLhyphen"/>fer and boaſter, proud, fooliſh and prophane one, thou ſervant of ſin, and enemy of righteouſneſſe, thou ſerpent and viper, how ſhalt thou eſcape the damnation of hell? Call not thou this railing, for it is Scripture language, to the ſeed thou art of, and to that nature thou art in; and the light of God in thy conſcience will witneſſe the ſame, as the book of con<g ref="char:EOLhyphen"/>ſcience is opened; and the Scriptures beares witneſſe againſt thee, and all in that nature, as thy fruits maketh thee manifeſt, <hi>Rom.</hi> 1.21, 22. and
+<pb n="9" facs="tcp:118738:6"/>
+               <hi>Rom.</hi> 1.28. to the end, <hi>Rom.</hi> 2.5, 6. <hi>Rom.</hi> 6.16. <hi>John</hi> 8.34, 44. 1 <hi>John</hi> 3.8. <hi>Math.</hi> 23.33.</p>
+            <p>And when I asked the other Prieſt <hi>Bennet</hi> inſtead of you both, whether he were a Miniſter of the Letter or of the Spirit, he ſaid, of both the Let<g ref="char:EOLhyphen"/>ter and of the Spirit, but <hi>Paul,</hi> and the Goſpel Miniſters ſaid, ye was not Miniſters of the Letter, but of the Spirit, 1 <hi>Cor</hi> 3 6. ſo he and thou both was found to be contrary to <hi>Paul</hi> and the Goſpel Miniſters in that; but becauſe I know him and thee to be but Miniſters of the Letter, and no Miniſters of Chriſt, nor the Goſpel, nor the Spirit, therefore did I ask him and thee both of you, a Queſtion concerning the Miniſtery in the Spi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it, that it migh be made manifeſt to others, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t he nor thou, neither of you was no Miniſters of the Spirit, for I asked him as well as thee, how he could give account of the inward Miniſtration and what death had reigned over in him, and how he came to the Law &amp; hrough the Prophets; &amp; know <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn</hi> in burnings &amp; to come burning &amp; ſhining &amp; what ſucceeded &amp; exceeded, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat it he w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re a Miniſter of the Spirit, he might give account of the paſſing from death unto life, and to ſpeak in the Miniſtery of the Spi<g ref="char:EOLhyphen"/>rit, but neither he nor thou could anſwer to that, nor give account of any thing at all concerning thoſe Miniſtrations: Then I begun to declare a<g ref="char:EOLhyphen"/>gainſt your igno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance to the people, and to lay open your deceits, and that Prieſt <hi>Bennet,</hi> he b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lld, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ared like a mad Bull, and whouted like a Ran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ier, or a Hun e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, leaſt the people ſhould hear your deceits laid open, but you are made manifeſt: On <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hame, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hame, let ſhame ſtrike you in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aces, and cover your lips, and ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p your mouthes for ever ma ing a pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſion of G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt more in that nature, who are deſ<g ref="char:EOLhyphen"/>perately wicked; and <hi>Th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s Cocke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am,</hi> and all that have a deſire to fear God be you aſhamed of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, carriages and actions of thoſe wick<g ref="char:EOLhyphen"/>ed Prieſts, that were ſo fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy, and wicked, and take heed how you hold them up; I warn you and ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you in the preſence of the Lord, as you will anſwer it before the judgement ſeat of Chriſt, leſt you be partaker of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> plagues, and the curſe of God come upon you for it, <hi>Rev.</hi> 18. To the light of Chriſt Jeſus in all your conſciences I ſpeak, that with it your mindes may be turned within, to ſee into your own hearts, and ſee if ever you get benefited any thing by them at all, that will ſtand you in ſtead, in the day of tryall; no, nor never ſhall benefit by them, nor none in their nature, who are out of the light, and out of the truth as they are; hear them not, not ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d them not up, as you will anſwer it, for the Lord is againſt them, and all ſuch as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey are, and their bleſſing is ac<g ref="char:EOLhyphen"/>curſed, like thoſe Prieſts ſpoken of in <hi>Mal.</hi> 2.1, 2.3 to the 10. And the Lord will make them contemptible in the eyes of all his people. And was he not blinde? You might ſee their baſeneſſe, as it were manifeſted that day; <hi>and if the blinde lead the blinde, ſhall not both fall into the ditch? Mat.</hi> 15.14.</p>
+            <p>Now ſay not but that you are warned in your life time, for to the light of God in all your conſciences ſhall I be witneſſed in the terrible day of the Lord, to whom my teſtimony was declared, that day as the book of conſcience is opened; and <hi>Cockeram,</hi> to the light of God in thy conſcience I ſpeak, that which ſheweth thee ſin and evill, and checks and reproves
+<pb n="10" facs="tcp:118738:7"/>
+thee in ſecret, and lets thee ſee when thou doſt amiſſe, and acteth con<g ref="char:EOLhyphen"/>trary to it, that, with the light of God in thy conſcience, thy minde may be turned towards God from whence the light comes, in it to wait for teaching, and deny thoſe Prieſts and blinde guides, for all the children of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord ſhall be taught of the Lord, as he hath promiſed, <hi>Iſa.</hi> 54.13, 14. <hi>Jer.</hi> 31.31. to the 3.5. <hi>Ezek.</hi> 34.11, 12, to the 17. <hi>John</hi> 6 45. <hi>Heb.</hi> 8, 10, 11. <hi>John</hi> 1.9. <hi>John</hi> 8.12. Now if thou love that light which ſheweth thee ſin and evill, and reproveth thee in ſecret, there is thy teach<g ref="char:EOLhyphen"/>er, that light, loving it, and obeying it; there is thy condemnation for ever, that light hating it, and diſobeying it, <hi>John</hi> 3.19, 20. Now thou haſt time, prize it, and take heed who thou entertaineth in thy houſe ſuch a proud, fooliſh, wilde, wanton, heedy, high-minded, ſcornfull, and diſdainfull one in thy houſe, under the name or pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſion of a Mi<g ref="char:EOLhyphen"/>niſter of Chriſt, as that Redheaded fellow the young Prieſt is, who hath not ſo much as a form of godlineſſe, therefore not the power, and if thou and the reſt were not very dark and blinde in the things of God, thou and all the reſt might ſee, that <hi>Houlderſhaw,</hi> nor <hi>Bennet,</hi> nor none in their nature, who are of the ſeed of the ſerpent, as they are, do neither follow Jeſus Chriſt, nor his true Miniſters for their example, as their fruits maketh them manifeſt, and they doe not abide in the Doctrine of Chriſt, therefore have they not God, but are the falſe Prophets, ſeducers, and antichriſts, hold them not up, for God is againſt them, and all ſuch are by Believers, and the children of the light to be denyed; therefore receive not ſuch into thy houſe, under that pretence which thou receiveth them, neither bid them God ſpeed, leſt thou be made partaker of their evil deeds; 2 <hi>John</hi> 9, 10, 11. Now thou art warned, and to the light of God in thy conſcience am I made manifeſt, yet ſhut up from thy dark minde, for light ſhineth in darkneſſe, but darkneſſe comprehendeth it not, as it is writ<g ref="char:EOLhyphen"/>ten and witneſſed, <hi>John</hi> 1.5.</p>
+            <p>Now I ſhall prove them two Prieſts, <hi>Bennet</hi> and <hi>Houlderſhaw,</hi> and all in their nature, who are out of the light, and out of the truth as they are, to be no Goſpel Miniſters, but falſe prophets, as their fruits ma<g ref="char:EOLhyphen"/>keth them manifeſt, and the Scriptures they witneſſe againſt them, for, ſaith <hi>Ieſus Chriſt, falſe prophets ſhall come, but by their fruits ſhall ye know them,</hi> for they ſay and do not, and are workers of iniquity, and are curſ<g ref="char:EOLhyphen"/>ed, therefore muſt they depart from him, as he hath ſaid, and as it is written and witneſſed. <hi>Math.</hi> 7.15, 16, 20, 23. Do they not ſay, that they are Miniſters of Chriſt, and do they not ſay, that Chriſt hath ſent them, &amp;c. But they have no authority from Chriſt, neither are they approved of by him, who do neither abide in his Doctrine, nor follow him for their example, therefore are they falſe prophets that ſay and doe not; they ſay, that they are ſent of Chriſt, but they do not abide in his Doctrine, neither do they follow him for their example, and he that ſaith he is in Chriſt, ought himſelf alſo to walk even as he walked, as it is written and witneſſed, 1 <hi>Iohn</hi> 2.4, 5, 6. But Prieſt <hi>Houlderſhaw,</hi> and Prieſt <hi>Bennet,</hi> and all the Prieſts of the world and Miniſters of man, walk contrary to Chriſt, and do no not abide in his Doctrine, as their fruits maketh them manfeſt, &amp;c. For Chriſt was never proud, neither
+<pb n="11" facs="tcp:118738:7"/>
+had he any mans perſon in admiration, becauſe of advantage; but the Prieſts of the world, or Miniſters of man, they reſpect rich men for their riches, and diſreſpect poor men for their poverty, and have great mens perſon in admiration, becauſe of advantage, that they alſo may be great in the earth, and be called Maſters, and bear Rule over poor people by their means, as the falſe Prieſts and falſe Prophets did, and they are ex<g ref="char:EOLhyphen"/>ceeding proud, therefore do they not keep the Commands of Chriſt, nor walk as he walked; but tranſgreſſeth and abideth not in his doctrine, and ſo h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th not God, as it is written, 2 <hi>Iohn</hi> 9 and they ſay men ſhould not be proud, but they do not deny it themſelves, and ſo they are evill exam<g ref="char:EOLhyphen"/>ples; for they ſay and do not, therefore are they falſe prophets, <hi>Mat.</hi> 7.15. to the end. The true Chriſt was never covetous, nor given to pleaſures, but the Prieſts are both pruod, covetous, and men that followes pleaſures, and worldly vanities, therefore are they not of Chriſt, and do not follow him for their example, nor walk as he walked, and they ſay men ſhould ſhould not be covetous, but they do not deny it, but love it themſelves, and ſo ſay and do not, therefore are they falſe prophets, and known by their fruits; and they are vain and light and wanton, and given to plea<g ref="char:EOLhyphen"/>ſures, and ſo nouriſh their hearts as in a day of ſlaughter, and kills and ſlayes the holy One, and the juſt, <hi>Iames</hi> 5<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the 5. <hi>Hoſea</hi> 6. &amp; the 9.</p>
+            <p>But the true Chriſt was a man of ſorrowes, deſpiſed and rejected of men, <hi>Iſa.</hi> 53. and ſo is he deſpiſed and rejected now by them and the Prieſts that are as they are, proud, and covetous, and light, and wanton, and vain, as the two Prieſts at thy houſe were; therefore do they not fol<g ref="char:EOLhyphen"/>low the Example of Chriſt, but they make the people light and vain, as the falſe Prophets did, and as they do, and as their fruits maketh them manifeſt, and as may be red in <hi>Ier.</hi> 23. and the 16.</p>
+            <p>And the people looking at them, the Prieſts or Miniſters of man for their examples, and ſeeing them having mens perſons in admiration, becauſe of advantage, and ſeeing them proud and covetous, and wanton, and vain; and given to ſports, and pleaſures, and ſeeing them ſue, and at ſtrife, and envy and hate, and hearing them revile and ſpeak evill of the wayes of godlineſſe, and ſeeing them given to diſdain and laughter, and vanity, fooliſhneſſe, and folly, &amp;c. And they that are without the true fear of the Lord, are ready to look at them to walk after, and they that fear the Lord are deſpiſed by them, &amp;c.</p>
+            <p>The people are ready to ſay within themſelves, if it was not right, they would not do it, profeſſing themſelves to be men of God, and Miniſters of Chriſt, and ſay they, know his minde and will, as the Prieſts ſay they do, &amp;c. Therefore ſaith the people in their hearts, If the Prieſts, or their Miniſters, as they call them, can do ſo, as to be proud, and covetous, and ſue, and go to Law; and envy, and hate, and be at ſtrife and variance, and laugh, and ſcoffe, and ſport, and play, and follow plea<g ref="char:EOLhyphen"/>ſures, why may not we do ſo? we do but as they do, that are our leaders, and if it was not right, they ſurely would not do it; for they know more than we do, and if they do it, we may do it, &amp;c. Therefore are they evil Examples, and ignorant people are ſeduced and led into errour and wic<g ref="char:EOLhyphen"/>kedneſſe by them, and taketh encouragement from them to do evill, as they do, and ſo the Scriptures cometh to be fulfilled, <hi>the leaders of the peo<g ref="char:EOLhyphen"/>ple
+<pb n="12" facs="tcp:118738:8"/>
+cauſeth them to erre,</hi> as it is written, <hi>Iſa.</hi> 9.16. And again there is like Prieſt, like people, as it is written and witneſſed, both by their fruits, and by Scripture, <hi>Hoſ.</hi> 4.9 <hi>And if the blinde lead the blinde, ſhall not both fall into the di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch, Mat.</hi> 15 14. And if your underſtandings were enlightned, you would ſee all the Prieſts, of the world to be out of the light, and out of the truth, as their actions declares, and their fruits ma<g ref="char:EOLhyphen"/>keth them manifeſt, and the Scriptures beares witneſſe againſt them, and their deceiveableneſſe with the light which changeth not, are they and their pernicious wayes ſeen and comprehended, and wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the light are they and all deceivers, ſeducers, falſe chriſts, and falſe prophets, and workers of iniquities, from God, and from Chriſt, to be condemned, as it is writ<g ref="char:EOLhyphen"/>ten and witneſſed, and <hi>we to the wicked, for it ſhall go ill with them, Iſa.</hi> 3.11. <hi>Pſal.</hi> 7.19. 2 <hi>Theſ.</hi> 1.8, 9. 2 <hi>Theſſ</hi> 2.11, 12. <hi>Rev.</hi> 20.</p>
+            <p>The falſe prophets ran, but never was ſent of the Lord, therefore did they not profit the people at all, but cauſed them to erre by their lyes and by their lightneſſe, and ſo have thoſe hireling Prieſts, <hi>Houlderſhaw</hi> and <hi>Bennet,</hi> and all in their nature, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un, but the Lord never ſent them, there<g ref="char:EOLhyphen"/>for do they not profit the people at all, but cauſeth them to erre by their lies, and by their lightneſſe, as the falſe prophets did, and as they do, both as their fruits maketh them manifeſt, and alſo as they run parallell with the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e prophets, as the Scriptures with their fruits largely witneſſeth. <hi>Jer.</hi> 12.16.17, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8, 19, 20, 21. and the 30.3, 32. verſes.</p>
+            <p>The falſe prophets, blind watchmen, and idol ſhepherds preach for hire, and bear rule by their means, and ſought for their gain from their Quarter, and made the people light and vain, and proud and covetous, &amp;c. So do thoſe falſe prophets, and blinde guides, wil<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, wanton, covetous proud Prieſts now, who are without the fear of the Lord, as their fruits maketh them manifeſt, laughing, and whouting, and ranting, and acting like Stage-players, for money, and ends as they do, as their actions declares, and as Redhead and the other Prieſt did at thy houſe <hi>Thomas Cockeram,</hi> and they preach for hire as the falſe prophets did, and they feed themſelves with the fat, and cloaths them with the wool as the falſe prophets and idoll ſhepherds did, taking the wool, and the Lambe and the Tythes, which they have no right <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o by the Law of God, profeſſing themſelves to be the Miniſters of Chriſt, the Goſpel, and the New Covenant, and they ſeek from their Quarters, places and pariſhes where they are, as the falſe pro<g ref="char:EOLhyphen"/>phets did, ſo do they, their fruits doth witneſſe againſt them, and the Scriptures witneſſe the ſame to prove them to be amongſt the falſe pro<g ref="char:EOLhyphen"/>phets, blinde watchmen, idoll ſhepherds, and hireling Prieſts, as it is written and witneſſed, <hi>Jer.</hi> 5.30, 31. <hi>Iſa.</hi> 56.10, 11. <hi>Ezek.</hi> 34. Like<g ref="char:EOLhyphen"/>wiſe they follow the wages of unrighteouſneſſe, as the falſe prophets did and they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y peace, peace to the people as the falſe prophets did, whileſt they put into their mouths, and pay them Tythes, and give them ſilver, for telling their lies, who when they cannot for conſcience ſake towards God upho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d them in their deceivableneſſe of unrighteouſneſſe, then they prepare war againſt them, are at ſtrife, ſues and goes to Law wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h them, to take treeble dammage, and take their goods by conſtraint, as <hi>Bennet</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd others have done; and ſo rules by force and by cruelty, as thoſe did
+<pb n="13" facs="tcp:118738:8"/>
+as the Lord ſent <hi>Ezekiel</hi> the true Prophet to cry out againſt, <hi>Ezek</hi> 3.1, 2, 3, 4, &amp;c. All thoſe and ſuch like do not abide in the Doctrine of Chriſt, and ſo hath not God, as their fruits maketh them manifeſt, and the Scriptures, they alſo witneſſe againſt them, and wo to them, or they go on in the ways of <hi>Cain,</hi> &amp; follow the errour of <hi>Balaam,</hi> preaching for gifts, and rewards, and they have mens perſons in admiration, becauſe of ad<g ref="char:EOLhyphen"/>vantage, and the curſe is upon all ſuch, for they love not the Lord Jeſus Chriſt, but mindes their be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lies, and earth and earthly things, and are enemies to the croſſe of Chriſt, which is cauſe for the people of God to mourn; <hi>Paul</hi> the Goſpel Miniſter did, becauſe of ſuch, <hi>Jude</hi> 11. and the 16. 1 <hi>Cor.</hi> 16.22. <hi>Phil.</hi> 3.18, 19. What meanings needs the Scrip<g ref="char:EOLhyphen"/>tures? thoſe that have eyes to ſee may ſee, the Prieſts to be as a den of thieves and robbers, and never came in by the door, but as a troop of robbers wait for a man, ſo the company of Prieſts they murder in the way by conſent, and by their it fruits are they known, and the Scriptures they witneſſe the ſame; here is a cloud of witneſſes againſt them to prove them to be deceivers and falſe prophets, ſeducers and Antichriſts, that do not abide in the doctrine of Chriſt, but are in the evill nature, and guided by the ſame ſpirit that the falſe prophets were, and they run paral<g ref="char:EOLhyphen"/>lel with them, try them by the Scriptures and their fruits, for Chriſt hath ſaid, that by their fruits they ſhall be known, <hi>Mat.</hi> 7.15. 2 <hi>Pet.</hi> 2. <hi>Mica.</hi> 3.5. and 11. <hi>Mat</hi> 5.40. <hi>Ezek.</hi> 34. 2 <hi>John</hi> 9. <hi>John</hi> 10. <hi>Hoſea.</hi> 6.9.</p>
+            <p>Likewiſe they are called of men Maſters, which Chriſt forbids, <hi>Mat.</hi> 23.8. <hi>and the</hi> 10. <hi>Mark</hi> 10.42, 43, 44. And they have the chiefeſt places in the Idols Temples, and Aſſemblies as the Scribes and Phariſees had, who were enemies to Jeſus Chriſt then as they are now, and they act as the Scribes and Phariſees did, which Chriſt cryed wo againſt then, and wo to the Prieſts now that are in their nature, and acts as they did, there<g ref="char:EOLhyphen"/>fore greater wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir condemnation be, as may be red, <hi>Mat.</hi> 23. <hi>to the</hi> 34. <hi>Mark</hi> 12.38, 39.40. And as they Preach for hire, and are proud, and covetous, and oppreſſeth poor people, and are called of men Maſter, which Chriſt forbids, and holds up the idols temple, and hath the chiefeſt place; So they ſprinkle Infants, for which they have no rule in the Scrip<g ref="char:EOLhyphen"/>ture, and tels people it is an Ordinance of Chriſt, when it is but one of their inventions, and a mark of the B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt, <hi>Rev.</hi> 13.8. <hi>and</hi> 16. And here they are lyars and deceivers of people for their own ends, and they call people to a Sacrament, when there is not ſuch 2 word in all the Scriptures as Sacrament, neither in new: or old Coven<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt; here again they are ly<g ref="char:EOLhyphen"/>ars and ſeducers, and cauſeth people to worſhip they know not what; and they tell people, or have told them, that the Steeple-houſes are Churches, when the Church is in God, and made all of living ſtones Elect and pre<g ref="char:EOLhyphen"/>cious, and a ſpiritual houſe for God to dwell in, by and thorough the Spi<g ref="char:EOLhyphen"/>rit, 1 <hi>Theſſ.</hi> 1 1 <hi>Pet.</hi> 2.5. <hi>Eph</hi> 1.22, 23. <hi>Eph.</hi> 2 19, 20, <hi>to the end. Eph.</hi> 5.5, 26, 27. Thus they have deceived people with their lies; and they ſtand praying in the Synagogue or idoll temple, as the Phariſees and hypocrites who are enemies to Chriſt as they are, therefore are they to be denyed, and declared againſt, as Chriſt did declare againſt ſuch then, <hi>Mat.</hi> 6.5. 1 <hi>Cor.</hi> 8, 10. <hi>Luke</hi> 20, 45, 46, 47. <hi>Mark</hi> 12.38, <hi>and the</hi> 39.
+<pb n="14" facs="tcp:118738:9"/>
+And they tell the people, they ſhall never be ſet free from ſin here, and no<g ref="char:EOLhyphen"/>thing that is unclean ſhall in no wiſe enter into the holy City, <hi>Rev.</hi> 21.27 And they are proud, and wanton, and fooliſh, and vain and filthy, like hankers, or hunters and ranters, as they manifeſted themſelves at thy houſe that day, <hi>Thomas Cockeram;</hi> ſuch are ſatannicall or the devils Mi<g ref="char:EOLhyphen"/>niſters, and no Miniſters of Chriſt, for the Miniſters of Chriſt are blameleſſe, as the ſtewards of God, not ſelf-willed, not ſoon angry, not given to wine, no ſtrikers, not greedy of filthy lucre, &amp;c. <hi>Tit.</hi> 1.7, 8. <hi>Acts</hi> 20.33, 34, 35. 1 <hi>Tim.</hi> 3. <hi>Ch</hi> 1 <hi>Cor.</hi> 9.16, 17, 18. <hi>&amp;c.</hi> But thy Prieſts which thou upholds, and intertaineth, and all the Prieſts of the world, and the Miniſters of man, are clear contrary to the Miniſters of the Goſpel, who are not made by the will of man: <hi>Gal.</hi> 1.11, 12, 2 <hi>Cor.</hi> 3.6. as their fruits maketh them manifeſt: Oh ſhame, ſhame, let ſhame ſtrike them all in the face, and <hi>Cockeram,</hi> and all that deſire to fear God, and ſerve him, take heed how you hold up ſuch as the Lord is againſt, as you will anſwer it before the judgement ſeat of Chriſt, now you are fore<g ref="char:EOLhyphen"/>warned, and this may ſerve to be a teſtimony againſt all the Prieſts of the world, and to let people know that they are the falſe Prophets, Steeple-houſe-creepers, ſeducers, and Antichriſts, ceaſe from them, and hold them not up, the Lord is againſt them, now you have time prize it.</p>
+            <div type="advice">
+               <head>How Houſe-creepers may be known.</head>
+               <p>Such creep into houſes, and lead ſilly women captive, laden with ſins, and keepeth them ever learning, and never able to come to the knowledge of the Truth, are deſcribed by their fruits to be ſelf-ſeeking men, and proud men, and heady high-minded men, and of that ſort as they are preſcribed by their fruits, in the 2 <hi>Tim.</hi> 3. from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he 1. to the 6. verſe, and ſuch as thoſe are found crept, and creeping into the Steeplehouſe, or idols temples ſet up in the time of Popery, and ſells their Brain-ſtudy there to deceive the people withall, and keepeth them ever learning, and they ſhall never know the life of truth by them that are ſuch, 2 <hi>Tim.</hi> 3.7, 8, 9. But <hi>Paul</hi> did not ſpeak againſt meeting in private houſes, and plain places, and up<g ref="char:EOLhyphen"/>per chambers, &amp;c. For if he ſhould have ſpoken againſt them that meet in privats houſes or plain places, or upper chambers, and if ſo then he would have ſpoken againſt the practice of the Saints after Chriſts Aſcenſion, and alſo he would have ſpoken againſt his own pra<g ref="char:EOLhyphen"/>ctice after he came into the Miniſtery of Chriſt, if he ſhould have ſpo<g ref="char:EOLhyphen"/>ken againſt Meetings in private houſes, and plains, but he ſpoke not a<g ref="char:EOLhyphen"/>gainſt ſuch, for that was the practice of the Saints, after Chriſts aſcenſion, Read thoſe Scriptures, and ſee, <hi>Acts</hi> 1.13.14, <hi>&amp;c. Acts</hi> 2.1, 2. <hi>&amp;c. Acts</hi> 4.31, 32. <hi>Acts</hi> 8.1, 2, 3. <hi>&amp;c. Acts</hi> 10.21. <hi>to the end. Acts</hi> 17.5 6, 7. <hi>&amp;c.</hi> 22, 23, 24, 25. <hi>verſes. Acts</hi> 16.13, 14.32. <hi>Acts</hi> 20.7, 8. <hi>and</hi> 20. <hi>Acts</hi> 28.30, 31. 1 <hi>Cor.</hi> 16.19. <hi>Coloſſ.</hi> 4.15.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
